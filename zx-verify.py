@@ -48,4 +48,4 @@ async def on_button_click(inter):
         await member.add_roles(verif)
         await inter.reply(res, ephemeral = True)
 
-bot.run('OTcwMTQ1NTgwNzkxNzc1Mjg0.Ym3seg.lhsHcAWSEW4oQIkroCnHcRgvhXA')
+bot.run(wssws')
